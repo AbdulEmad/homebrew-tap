@@ -1,6 +1,6 @@
 cask "irie" do
-  version "1.1.0"
-  sha256 "96f82e409c60e9122211466de4d3115484a00b1b796739bdfa1827cbfc81a976"
+  version "1.1.1"
+  sha256 "5855a2a0bdea422253bf2717d2bb9a063eae8e057251558e0c70350ab05da1a4"
 
   url "https://github.com/AbdulEmad/irie/releases/download/v#{version}/Irie.app.zip"
   name "Irie"
